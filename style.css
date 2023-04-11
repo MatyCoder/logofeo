@@ -1,0 +1,65 @@
+@CHARSET "ISO-8859-1";
+body
+{
+background-color:#ffffff;
+margin: 0px;
+padding: 0px;
+}
+h1
+{
+color:rgb(14,45,110);
+text-align:center;
+font-family:"arial";
+font-size:22px;
+}
+p
+{
+color:rgb(14,45,110);
+font-family:"arial";
+text-align:center;
+font-size:14px;
+}
+img {
+display: block;
+margin: auto;
+}
+#contenedor {
+width: 751px;
+margin-left: auto;
+margin-right: auto;
+}
+#header {
+width:751px;
+height:38px;
+margin-bottom:0px;
+}
+#logofeo {
+border-style:solid;
+border-width:5px;
+border-color:#DCB40E;
+text-align:center;
+}
+#formulario {
+text-align: center;
+}
+.pie {
+font-family:"verdana";
+font-size:12px;
+}
+.formlabel {
+font-family:"verdana";
+font-size:12px;
+}
+#social {
+margin: 20px auto 10px;
+}
+#ads {
+margin: 20px auto 10px;
+}
+#twitter {
+font-size: 8px;
+text-align: left;
+}
+#formfondo{
+background-color:#dbb40e;
+}
